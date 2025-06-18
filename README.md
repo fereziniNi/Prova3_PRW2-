@@ -19,7 +19,6 @@ Projeto backend desenvolvido em **Node.js** com **Express** para gerenciar infor
 
 Cada aluno armazenado no sistema possui os seguintes dados:
 
-- `id` : inteiro
 - `nome` : string
 - `ra` : string
 - `nota1` : real
